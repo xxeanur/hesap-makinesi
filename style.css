@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh; 
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.divOzellik2{
+    color: aliceblue;
+    background-color: black;
+    width: 335px;
+    height: 80px;
+}
+
+.divOzellik{
+    background-color: black;
+}
+
+
+.sayiButton{
+    color: aliceblue;
+    background-color: black; 
+    width: 80px;
+    height: 80px;
+    font-size: large;
+
+}
+
+button:hover{
+    background-color: rgb(89, 89, 89);
+}
+.operatorButton{
+    color: darkorange;
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    font-size: large;
+}
